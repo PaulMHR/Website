@@ -1,0 +1,35 @@
+body {
+  font-family: helvetica, 'Open Sans', sans-serif;
+  margin: 10px;
+}
+
+.title {
+  text-align: centre;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 52px;
+  text-align: center;
+}
+
+h2 {
+  color: grey;
+  text-align: center;
+}
+
+.buttons{
+  max-width: 355px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttons li {
+  display: inline;
+  padding: 65px 18px 20px 20px;
+}
+
+.buttons a{
+  font-size: 16px;
+  border: 1px black solid;
+}
