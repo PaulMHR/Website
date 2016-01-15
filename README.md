@@ -1,3 +1,3 @@
 # Website
 
-Source code for my personal webiste.
+Source code for my personal website.
